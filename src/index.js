@@ -17,7 +17,8 @@ const index = `
 			<title>First Node Page</title>
 		</head>
 		<body>
-			<h1>First Node Page!</h1>
+            <h1>First Node Page!</h1>
+            <p> Welcome to my first webpage using node! </p>
 		</body>
 	</html>
 `;
